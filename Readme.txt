@@ -3,6 +3,6 @@ Simples Processing Sketch
 Demo Applikation zum ArduSmart Projekt. 
 Vorraussetzung ist ein Bluettooth Verbindung zwischen Smartphone und Processing. 
 
-MPU6050 über Arrduino wird im nächsten Schritt angebunden. 
+MPU6050 Ã¼ber Arduino wird im nÃ¤chsten Schritt angebunden. 
 
 - F41ARDU
